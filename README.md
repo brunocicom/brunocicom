@@ -11,7 +11,7 @@ I'm a passionate Backend and Frontend Software Developer with +15 years of exper
 ## Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=brunocicom&show_icons=true&theme=blue-green" alt="brunocicom" /></p>
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocicom&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html" alt="brunocicom" /></p>
 <!--
 **brunocicom/brunocicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
