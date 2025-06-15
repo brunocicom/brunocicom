@@ -5,7 +5,7 @@ I'm a passionate Backend and Frontend Software Developer with +15 years of exper
 ## About Me
 
 - 🔭 I’m currently working on [![Microfocus COBOL](https://img.shields.io/badge/-Microfocus_COBOL-005571?style=flat-square&logoColor=ffffff)](https://www.microfocus.com/) [![Java](https://img.shields.io/badge/-Java-F80000?style=flat-square&logoColor=ffffff&logo=oracle)](https://www.java.com/en/) [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logoColor=ffffff&logo=angular)](https://angular.io/)[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logoColor=ffffff&logo=go)](https://golang.org/)
-- 🌱 I’m currently learning [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://go.dev/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+- 🌱 I’m currently learning [![AI](https://img.shields.io/badge/-AI-4B0082?style=flat-square&logo=brain)](https://en.wikipedia.org/wiki/Artificial_intelligence) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:brunocicom@gmail.com)
 
 ## Stats
